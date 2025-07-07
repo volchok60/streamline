@@ -1,6 +1,6 @@
 # StreamLine Landing Page
 
-A modern, responsive landing page for StreamLine - a fictional SaaS company focused on workflow automation. Built with Next.js 14, React 18, Tailwind CSS, and Framer Motion for smooth animations.
+A modern, responsive landing page for StreamLine - a fictional SaaS company focused on workflow automation. Built with Next.js 15, React 19, Tailwind CSS, and Framer Motion for smooth animations.
 
 ![StreamLine Landing Page](https://via.placeholder.com/1200x600/3B82F6/FFFFFF?text=StreamLine+Landing+Page)
 
@@ -10,7 +10,7 @@ A modern, responsive landing page for StreamLine - a fictional SaaS company focu
 - **Fully Responsive**: Mobile-first approach that works on all devices
 - **Smooth Animations**: Powered by Framer Motion with scroll-triggered animations
 - **Interactive Contact Form**: Real-time validation with animated feedback
-- **Performance Optimized**: Built with Next.js 14 and optimized for speed
+- **Performance Optimized**: Built with Next.js 15 and optimized for speed
 - **Accessibility**: WCAG compliant with proper semantic HTML
 - **TypeScript**: Fully typed for better development experience
 
@@ -125,8 +125,8 @@ const contactSchema = z.object({
 ## 🛠️ Built With
 
 ### Core Technologies
-- **[Next.js 14](https://nextjs.org/)** - React framework with App Router
-- **[React 18](https://reactjs.org/)** - UI library
+- **[Next.js 15](https://nextjs.org/)** - React framework with App Router
+- **[React 19](https://reactjs.org/)** - UI library
 - **[TypeScript](https://www.typescriptlang.org/)** - Type safety
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework
 
