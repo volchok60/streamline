@@ -26,12 +26,12 @@ Built with Next.js 15, React 19, Tailwind CSS, and Framer Motion for smooth anim
 
  **Install dependencies**
    ```bash
-   npm install
+   pnpm install
    ```
 
  **Run the development server**
    ```bash
-   npm run dev
+   pnpm dev
    ```
 
 
@@ -162,8 +162,8 @@ The landing page is fully responsive with breakpoints:
 
 ### Manual Deployment
 \`\`\`bash
-npm run build
-npm start
+pnpm build
+pnpm start
 \`\`\`
 
 ### Environment Variables
@@ -176,10 +176,10 @@ CONTACT_EMAIL=hello@streamline.com
 ## 🧪 Development
 
 ### Available Scripts
-- \`npm run dev\` - Start development server
-- \`npm run build\` - Build for production
-- \`npm run start\` - Start production server
-- \`npm run lint\` - Run ESLint
+- \`pnpm dev\` - Start development server
+- \`pnpm build\` - Build for production
+- \`pnpm start\` - Start production server
+- \`pnpm lint\` - Run ESLint
 
 ### Code Style
 - **ESLint**: Configured with Next.js recommended rules
@@ -224,14 +224,6 @@ const customVariant = {
 - **Features**: Modify the features array with new icons and descriptions
 - **Testimonials**: Update customer quotes and information
 - **Pricing**: Adjust pricing plans and features
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (\`git checkout -b feature/amazing-feature\`)
-3. Commit your changes (\`git commit -m 'Add amazing feature'\`)
-4. Push to the branch (\`git push origin feature/amazing-feature\`)
-5. Open a Pull Request
 
 ## 📄 License
 
