@@ -244,18 +244,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Framer Motion](https://www.framer.com/motion/)** for smooth animations
 - **[Lucide](https://lucide.dev/)** for the icon library
 
-## 📞 Support
-
-If you have any questions or need help with the project:
-
-- **Email**: hello@streamline.com
-- **GitHub Issues**: [Create an issue](https://github.com/your-username/streamline-landing/issues)
-- **Documentation**: [Next.js Docs](https://nextjs.org/docs)
-
----
-
-**Built with ❤️ by the StreamLine team**
-\`\`\`
 
 ## 🔄 Changelog
 
