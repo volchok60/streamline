@@ -1,8 +1,7 @@
 # StreamLine Landing Page
 
-A modern, responsive landing page for StreamLine - a fictional SaaS company focused on workflow automation. Built with Next.js 15, React 19, Tailwind CSS, and Framer Motion for smooth animations.
-
-![StreamLine Landing Page](https://via.placeholder.com/1200x600/3B82F6/FFFFFF?text=StreamLine+Landing+Page)
+A modern, responsive landing page for StreamLine - a fictional SaaS company focused on workflow automation. 
+Built with Next.js 15, React 19, Tailwind CSS, and Framer Motion for smooth animations.
 
 ## ✨ Features
 
@@ -21,34 +20,20 @@ A modern, responsive landing page for StreamLine - a fictional SaaS company focu
 - Node.js 18.0 or later
 - npm, yarn, or pnpm
 
-### Installation
+### Setup
 
-1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/your-username/streamline-landing.git
-   cd streamline-landing
-   \`\`\`
 
-2. **Install dependencies**
-   \`\`\`bash
+
+ **Install dependencies**
+   ```bash
    npm install
-   # or
-   yarn install
-   # or
-   pnpm install
-   \`\`\`
+   ```
 
-3. **Run the development server**
-   \`\`\`bash
+ **Run the development server**
+   ```bash
    npm run dev
-   # or
-   yarn dev
-   # or
-   pnpm dev
-   \`\`\`
+   ```
 
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000) to see the result.
 
 ## 📁 Project Structure
 
